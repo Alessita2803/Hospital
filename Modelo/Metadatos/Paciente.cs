@@ -35,6 +35,5 @@ namespace Modelo.Metadatos
         [StringLength(50)]
         public string direccion {  get; set; }
 
-
     }
 }
