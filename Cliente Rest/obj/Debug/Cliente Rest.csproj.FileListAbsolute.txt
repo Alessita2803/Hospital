@@ -1,0 +1,11 @@
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Cliente Rest\bin\Debug\Cliente Rest.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Cliente Rest\bin\Debug\Cliente Rest.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Cliente Rest\bin\Debug\Comun.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Cliente Rest\bin\Debug\Modelo.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Cliente Rest\bin\Debug\Comun.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Cliente Rest\bin\Debug\Modelo.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Cliente Rest\obj\Debug\Cliente Rest.csproj.AssemblyReference.cache
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Cliente Rest\obj\Debug\Cliente Rest.csproj.CoreCompileInputs.cache
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Cliente Rest\obj\Debug\Cliente .AA726FE5.Up2Date
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Cliente Rest\obj\Debug\Cliente Rest.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Cliente Rest\obj\Debug\Cliente Rest.pdb

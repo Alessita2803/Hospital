@@ -1,0 +1,15 @@
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\bin\Debug\Logica de Negocio.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\bin\Debug\Logica de Negocio.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\bin\Debug\Acceso a datos.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\bin\Debug\Cliente Rest.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\bin\Debug\Comun.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\bin\Debug\Modelo.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\bin\Debug\Acceso a datos.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\bin\Debug\Cliente Rest.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\bin\Debug\Comun.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\bin\Debug\Modelo.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\obj\Debug\Logica de Negocio.csproj.AssemblyReference.cache
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\obj\Debug\Logica de Negocio.csproj.CoreCompileInputs.cache
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\obj\Debug\Logica d.66E82047.Up2Date
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\obj\Debug\Logica de Negocio.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Logica de Negocio\obj\Debug\Logica de Negocio.pdb

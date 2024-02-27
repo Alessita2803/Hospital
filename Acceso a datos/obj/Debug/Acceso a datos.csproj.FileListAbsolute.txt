@@ -1,0 +1,11 @@
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Acceso a datos\bin\Debug\Acceso a datos.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Acceso a datos\bin\Debug\Acceso a datos.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Acceso a datos\bin\Debug\Comun.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Acceso a datos\bin\Debug\Modelo.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Acceso a datos\bin\Debug\Comun.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Acceso a datos\bin\Debug\Modelo.pdb
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Acceso a datos\obj\Debug\Acceso a datos.csproj.AssemblyReference.cache
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Acceso a datos\obj\Debug\Acceso a datos.csproj.CoreCompileInputs.cache
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Acceso a datos\obj\Debug\Acceso a.7A4216EC.Up2Date
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Acceso a datos\obj\Debug\Acceso a datos.dll
+C:\Users\AlessaVianeyColorado\source\repos\#1 API\Hospital\Acceso a datos\obj\Debug\Acceso a datos.pdb
